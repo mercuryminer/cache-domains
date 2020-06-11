@@ -1,2 +1,15 @@
-gs2.ww.prod.dl.playstation.net
+ps4updptl.au.np.community.playstation.net.akadns.net
+ps4updptl.au.np.community.playstation.net.edgekey.net
 gs2.sonycoment.loris-e.llnwd.net
+post.net.playstation.net
+get.net.playstation.net
+fus01.ps4.update.playstation.net
+feu01.ps4.update.playstation.net
+deu01.ps4.update.playstation.net
+ps4updptl.eu.np.community.playstation.net
+tmdb.np.dl.playstation.net
+themis.dl.playstation.net
+sf.api.np.km.playstation.net
+asm.np.community.playstation.net
+ps4-eb.ww.np.dl.playstation.net
+ps4-eb.ww.np.dl.playstation.net
