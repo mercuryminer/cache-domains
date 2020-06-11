@@ -1,5 +1,5 @@
-ps4updptl.au.np.community.playstation.net.akadns.net
-ps4updptl.au.np.community.playstation.net.edgekey.net
+#ps4updptl.au.np.community.playstation.net.akadns.net
+#ps4updptl.au.np.community.playstation.net.edgekey.net
 gs2.sonycoment.loris-e.llnwd.net
 post.net.playstation.net
 get.net.playstation.net
